@@ -1086,9 +1086,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-10-02 20:38:46 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/totem_top": {
+    "criteria": {
+      "has_obsidian": "2025-10-02 20:35:25 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/alchemy_table/alchemy_table/water_breathing_oil": {
     "criteria": {
       "has_bottles": "2025-10-02 20:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-10-02 20:38:46 +0000"
     },
     "done": true
   },
@@ -1116,6 +1134,18 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-10-02 20:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-10-02 20:35:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-10-02 20:21:32 +0000"
@@ -1125,6 +1155,18 @@
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-10-02 20:10:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-10-02 20:38:46 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/vampire_beacon": {
+    "criteria": {
+      "has_obsidian": "2025-10-02 20:35:25 +0000"
     },
     "done": true
   },
@@ -1152,6 +1194,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-10-02 20:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-10-02 20:38:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-10-02 20:22:14 +0000"
@@ -1167,6 +1221,12 @@
   "vampirism:recipes/alchemy_table/alchemy_table/slow_falling_oil": {
     "criteria": {
       "has_bottles": "2025-10-02 20:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-10-02 20:37:39 +0000"
     },
     "done": true
   },
@@ -1224,6 +1284,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/totem_base": {
+    "criteria": {
+      "has_obsidian": "2025-10-02 20:35:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-10-02 20:07:45 +0000"
@@ -1239,6 +1305,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-10-02 20:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-10-02 20:38:46 +0000"
     },
     "done": true
   },
@@ -1284,6 +1356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-10-02 20:37:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-10-02 20:07:45 +0000"
@@ -1305,6 +1383,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-10-02 20:32:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-10-02 20:38:46 +0000"
     },
     "done": true
   },
@@ -1350,6 +1434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-10-02 20:38:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-10-02 20:21:30 +0000"
@@ -1368,9 +1458,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-10-02 20:38:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-10-02 20:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-10-02 20:35:25 +0000"
     },
     "done": true
   },
@@ -1428,6 +1530,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-10-02 20:38:46 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/alchemy_table/alchemy_table/fire_resistance_oil": {
     "criteria": {
       "has_bottles": "2025-10-02 20:22:15 +0000"
@@ -1443,6 +1551,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-10-02 20:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-10-02 20:35:25 +0000"
     },
     "done": true
   },
@@ -1473,6 +1587,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-10-02 20:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-10-02 20:35:27 +0000"
     },
     "done": true
   },
