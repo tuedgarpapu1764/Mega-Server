@@ -1786,6 +1786,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_cloak_white_black": {
+    "criteria": {
+      "has_pure_blood": "2025-10-02 22:43:29 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_orange_from_white": {
     "criteria": {
       "has_coffin": "2025-10-02 22:21:22 +0000"
@@ -2064,6 +2070,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
+    "criteria": {
+      "has_pure_blood": "2025-10-02 22:43:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-10-02 22:20:46 +0000"
@@ -2103,6 +2115,12 @@
   "vampirism:recipes/combat/vampire/vampire_clothing_boots": {
     "criteria": {
       "has_heart": "2025-10-02 22:14:23 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/hunter/pure_blood3": {
+    "criteria": {
+      "has_pure_blood": "2025-10-02 22:43:29 +0000"
     },
     "done": true
   },
@@ -2184,6 +2202,18 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_red": {
+    "criteria": {
+      "has_pure_blood": "2025-10-02 22:43:29 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_blue": {
+    "criteria": {
+      "has_pure_blood": "2025-10-02 22:43:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2025-10-02 21:33:44 +0000"
@@ -2223,6 +2253,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-10-02 21:22:22 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_red_black": {
+    "criteria": {
+      "has_pure_blood": "2025-10-02 22:43:29 +0000"
     },
     "done": true
   },

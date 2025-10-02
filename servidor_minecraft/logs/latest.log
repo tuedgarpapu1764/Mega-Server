@@ -330,3 +330,11 @@
 [02Oct2025 22:28:20.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> yaya
 [02Oct2025 22:28:57.124] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJForever1764 lost connection: Disconnected
 [02Oct2025 22:28:57.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 left the game
+[02Oct2025 22:41:10.183] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JJForever1764[/127.206.25.203:45123] logged in with entity id 55858 at (705.4330525198917, 67.50744472048187, 221.61270258573504)
+[02Oct2025 22:41:10.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 joined the game
+[02Oct2025 22:42:24.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[02Oct2025 22:43:06.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set Nexus2012's game mode to Creative Mode]
+[02Oct2025 22:44:59.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set Nexus2012's game mode to Survival Mode]
+[02Oct2025 22:45:11.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[02Oct2025 22:45:25.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[02Oct2025 22:45:35.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
