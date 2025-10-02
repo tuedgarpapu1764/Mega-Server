@@ -116,3 +116,60 @@
 [02Oct2025 20:44:47.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> te lo voa a dejar en tu casa
 [02Oct2025 20:44:52.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nexus2012> xd vava
 [02Oct2025 20:45:23.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[02Oct2025 20:45:53.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nexus2012> oe duerme
+[02Oct2025 20:46:15.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[02Oct2025 20:46:59.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[02Oct2025 20:47:03.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> mira
+[02Oct2025 20:47:32.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nexus2012> cual?
+[02Oct2025 20:47:41.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> deberia estar llegando
+[02Oct2025 20:47:45.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> tu paquete
+[02Oct2025 20:47:48.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[02Oct2025 20:47:58.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nexus2012> no ando en mi csa
+[02Oct2025 20:47:59.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[02Oct2025 20:48:05.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> yay
+[02Oct2025 20:48:08.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nexus2012 has made the advancement [Blood Feeders' Home]
+[02Oct2025 20:48:12.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> eee
+[02Oct2025 20:48:16.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[02Oct2025 20:50:43.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[02Oct2025 20:51:52.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[02Oct2025 20:57:42.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[02Oct2025 20:57:49.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[02Oct2025 20:57:58.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 745.500000, 119.500000, 88.500000]
+[02Oct2025 20:58:02.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[02Oct2025 20:58:29.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Who is Cutting Onions?]
+[02Oct2025 20:58:29.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Ice Bucket Challenge]
+[02Oct2025 21:00:49.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[02Oct2025 21:00:50.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nexus2012 has made the advancement [Hot Stuff]
+[02Oct2025 21:00:52.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 746.500000, 119.500000, 88.500000]
+[02Oct2025 21:01:23.242] [Worker-Main-18/INFO] [citadel/]: merged 6 surface rules with vanilla rule SequenceRuleSource
+[02Oct2025 21:01:24.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [We Need to Go Deeper]
+[02Oct2025 21:01:25.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2838ms or 56 ticks behind
+[02Oct2025 21:01:29.784] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[02Oct2025 21:02:02.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 176.500000, 93.000000, 41.500000]
+[02Oct2025 21:02:08.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[02Oct2025 21:02:25.894] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJForever1764 lost connection: Disconnected
+[02Oct2025 21:02:25.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 left the game
+[02Oct2025 21:02:25.969] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Oct2025 21:02:37.497] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JJForever1764[/127.82.226.93:40879] logged in with entity id 17157 at (178.41246120378793, 92.43181950960113, 47.91491231265934)
+[02Oct2025 21:02:37.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 joined the game
+[02Oct2025 21:02:48.134] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nexus2012 lost connection: Disconnected
+[02Oct2025 21:02:48.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nexus2012 left the game
+[02Oct2025 21:02:59.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[02Oct2025 21:04:23.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Knowledge of Death]
+[02Oct2025 21:04:23.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has reached the goal [Strong or Careful]
+[02Oct2025 21:04:23.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 was doomed to fall by Ancient Knight
+[02Oct2025 21:04:23.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Your First Grave]
+[02Oct2025 21:04:23.619] [Server thread/INFO] [tombstone/]: The player JJForever1764 has successfully been saved
+[02Oct2025 21:04:39.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[02Oct2025 21:04:48.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [The Most Useful Key]
+[02Oct2025 21:04:53.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has reached the goal [A Fast Comeback]
+[02Oct2025 21:04:57.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has reached the goal [Easy Opening]
+[02Oct2025 21:05:29.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nexus2012[/127.206.25.203:51501] logged in with entity id 17984 at (828.3000000119209, 58.0, -201.50527274342366)
+[02Oct2025 21:05:29.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nexus2012 joined the game
+[02Oct2025 21:05:34.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nexus2012 has reached the goal [Strong or Careful]
+[02Oct2025 21:05:34.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nexus2012 was slain by Ghost
+[02Oct2025 21:05:34.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nexus2012 has made the advancement [Your First Grave]
+[02Oct2025 21:05:34.248] [Server thread/INFO] [tombstone/]: The player Nexus2012 has successfully been saved
+[02Oct2025 21:05:34.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[02Oct2025 21:05:39.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[02Oct2025 21:05:50.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nexus2012 has reached the goal [Here They Come]

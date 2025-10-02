@@ -19,11 +19,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-10-02 20:50:47 +0000",
       "minecraft:taiga": "2025-10-02 20:30:25 +0000",
       "minecraft:beach": "2025-10-02 17:39:09 +0000",
+      "minecraft:river": "2025-10-02 20:47:21 +0000",
       "minecraft:dripstone_caves": "2025-10-02 20:27:35 +0000",
       "minecraft:cold_ocean": "2025-10-02 17:40:14 +0000",
       "minecraft:forest": "2025-10-02 17:26:23 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-10-02 20:58:18 +0000",
+      "minecraft:old_growth_birch_forest": "2025-10-02 20:55:14 +0000",
       "minecraft:meadow": "2025-10-02 17:49:32 +0000",
       "minecraft:plains": "2025-10-02 17:39:01 +0000"
     },
@@ -865,7 +869,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2025-10-02 18:15:28 +0000"
+      "cooked_porkchop": "2025-10-02 18:15:28 +0000",
+      "cooked_beef": "2025-10-02 20:47:41 +0000"
     },
     "done": false
   },
@@ -1052,7 +1057,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-10-02 20:04:47 +0000",
-      "minecraft:zombie": "2025-10-02 18:22:59 +0000"
+      "minecraft:zombie": "2025-10-02 18:22:59 +0000",
+      "minecraft:zombie_villager": "2025-10-02 20:58:36 +0000"
     },
     "done": false
   },
@@ -1107,6 +1113,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-10-02 20:38:46 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cursed_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-10-02 20:49:27 +0000"
     },
     "done": true
   },
@@ -1242,6 +1254,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-10-02 20:50:57 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/alchemy_table/alchemy_table/luck_oil": {
     "criteria": {
       "has_bottles": "2025-10-02 20:22:15 +0000"
@@ -1350,6 +1368,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-10-02 20:50:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-10-02 20:22:18 +0000"
@@ -1359,6 +1383,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-10-02 20:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-10-02 20:50:57 +0000"
     },
     "done": true
   },
@@ -1377,6 +1407,12 @@
   "vampirism:recipes/alchemy_table/alchemy_table/night_vision_oil": {
     "criteria": {
       "has_bottles": "2025-10-02 20:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-10-02 21:00:50 +0000"
     },
     "done": true
   },
@@ -1410,15 +1446,33 @@
     },
     "done": true
   },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-10-02 20:53:21 +0000"
+    },
+    "done": false
+  },
   "vampirism:recipes/food/general/garlic_bread": {
     "criteria": {
       "has_bread": "2025-10-02 20:21:26 +0000"
     },
     "done": true
   },
+  "vampirism:recipes/decorations/hunter/hunter_table": {
+    "criteria": {
+      "has_fang": "2025-10-02 20:58:32 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/alchemy_table/alchemy_table/invisibility_oil": {
     "criteria": {
       "has_bottles": "2025-10-02 20:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-10-02 20:50:57 +0000"
     },
     "done": true
   },
@@ -1488,9 +1542,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-10-02 20:50:57 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/misc/vampire/garlic_finder": {
     "criteria": {
       "has_garlic": "2025-10-02 20:21:30 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/vampire_forest": {
+    "criteria": {
+      "main": "2025-10-02 20:48:08 +0000"
     },
     "done": true
   },
@@ -1503,6 +1569,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-10-02 20:07:45 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cursed_spruce_planks": {
+    "criteria": {
+      "has_log": "2025-10-02 20:49:27 +0000"
     },
     "done": true
   },
@@ -1545,6 +1617,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-10-02 20:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-10-02 20:50:57 +0000"
     },
     "done": true
   },
