@@ -872,6 +872,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-10-02 18:15:28 +0000",
+      "cooked_mutton": "2025-10-02 22:20:27 +0000",
       "cooked_beef": "2025-10-02 20:47:41 +0000"
     },
     "done": false
@@ -1713,6 +1714,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/coffin_gray_from_white": {
+    "criteria": {
+      "has_coffin": "2025-10-02 22:21:22 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/blood_cult": {
     "criteria": {
       "main": "2025-10-02 22:05:50 +0000"
@@ -1725,15 +1732,51 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/coffin_brown_from_white": {
+    "criteria": {
+      "has_coffin": "2025-10-02 22:21:22 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_green_from_white": {
+    "criteria": {
+      "has_coffin": "2025-10-02 22:21:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-10-02 22:20:46 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/freeze_kill": {
     "criteria": {
       "main": "2025-10-02 22:05:50 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-10-02 22:20:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
       "has_yellow_terracotta": "2025-10-02 21:33:27 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_cyan_from_white": {
+    "criteria": {
+      "has_coffin": "2025-10-02 22:21:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-10-02 22:20:46 +0000"
     },
     "done": true
   },
@@ -1743,15 +1786,33 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/coffin_orange_from_white": {
+    "criteria": {
+      "has_coffin": "2025-10-02 22:21:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2025-10-02 21:33:44 +0000"
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/coffin_blue_from_white": {
+    "criteria": {
+      "has_coffin": "2025-10-02 22:21:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-10-02 21:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-10-02 22:20:46 +0000"
     },
     "done": true
   },
@@ -1767,9 +1828,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/coffin_yellow_from_white": {
+    "criteria": {
+      "has_coffin": "2025-10-02 22:21:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-10-02 21:43:07 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_purple_from_white": {
+    "criteria": {
+      "has_coffin": "2025-10-02 22:21:22 +0000"
     },
     "done": true
   },
@@ -1782,6 +1855,12 @@
   "vampirism:recipes/combat/vampire/vampire_clothing_crown": {
     "criteria": {
       "has_heart": "2025-10-02 22:14:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-10-02 22:20:46 +0000"
     },
     "done": true
   },
@@ -1798,15 +1877,40 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-10-02 22:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-10-02 22:20:46 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/extra_storage": {
     "criteria": {
+      "blood_container": "2025-10-02 22:22:39 +0000",
       "main": "2025-10-02 22:05:50 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-10-02 22:20:46 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/mud_brick_wall": {
     "criteria": {
       "has_mud_bricks": "2025-10-02 21:33:44 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_light_blue_from_white": {
+    "criteria": {
+      "has_coffin": "2025-10-02 22:21:22 +0000"
     },
     "done": true
   },
@@ -1828,9 +1932,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-10-02 22:20:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-10-02 21:42:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-10-02 22:19:13 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_lime_from_white": {
+    "criteria": {
+      "has_coffin": "2025-10-02 22:21:22 +0000"
     },
     "done": true
   },
@@ -1858,15 +1980,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-10-02 22:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-10-02 22:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-10-02 22:20:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_glazed_terracotta": {
     "criteria": {
       "has_blue_terracotta": "2025-10-02 21:33:18 +0000"
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/coffin_black_from_white": {
+    "criteria": {
+      "has_coffin": "2025-10-02 22:21:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-10-02 21:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-10-02 22:20:46 +0000"
     },
     "done": true
   },
@@ -1882,6 +2034,12 @@
     },
     "done": false
   },
+  "vampirism:recipes/misc/general/injection_0": {
+    "criteria": {
+      "has_glass": "2025-10-02 22:20:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_brick_slab": {
     "criteria": {
       "has_mud_bricks": "2025-10-02 21:33:44 +0000"
@@ -1891,6 +2049,18 @@
   "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
       "has_silver_nugget": "2025-10-02 21:22:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_red_from_white": {
+    "criteria": {
+      "has_coffin": "2025-10-02 22:21:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-10-02 22:20:46 +0000"
     },
     "done": true
   },
@@ -1918,6 +2088,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-10-02 22:20:46 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/vampire/vampire_clothing_boots": {
     "criteria": {
       "has_heart": "2025-10-02 22:14:23 +0000"
@@ -1930,6 +2106,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/coffin_pink_from_white": {
+    "criteria": {
+      "has_coffin": "2025-10-02 22:21:22 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/kill_mother": {
     "criteria": {
       "main": "2025-10-02 22:05:50 +0000"
@@ -1939,6 +2121,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-10-02 21:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-10-02 22:20:46 +0000"
     },
     "done": true
   },
@@ -1957,6 +2145,24 @@
   "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
       "requirement": "2025-10-02 21:11:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-10-02 22:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-10-02 22:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-10-02 22:20:46 +0000"
     },
     "done": true
   },
@@ -2014,9 +2220,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/coffin_magenta_from_white": {
+    "criteria": {
+      "has_coffin": "2025-10-02 22:21:22 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-10-02 21:50:43 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_light_gray_from_white": {
+    "criteria": {
+      "has_coffin": "2025-10-02 22:21:22 +0000"
     },
     "done": true
   },
