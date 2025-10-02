@@ -2004,6 +2004,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/vampire/blood_bottle_to_glass": {
+    "criteria": {
+      "has_blood_bottle": "2025-10-02 22:27:36 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_black_from_white": {
     "criteria": {
       "has_coffin": "2025-10-02 22:21:22 +0000"

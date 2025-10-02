@@ -2325,9 +2325,10 @@
   },
   "vampirism:vampire/bat": {
     "criteria": {
+      "action": "2025-10-02 22:25:36 +0000",
       "main": "2025-10-02 21:58:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
