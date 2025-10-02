@@ -1049,6 +1049,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-10-02 20:04:47 +0000",
       "minecraft:zombie": "2025-10-02 18:22:59 +0000"
     },
     "done": false
@@ -1056,6 +1057,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-10-02 18:22:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-10-02 18:31:45 +0000"
     },
     "done": true
   },
@@ -1077,9 +1084,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/root": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "auto": "2025-10-02 18:31:45 +0000"
+      "deflected_projectile": "2025-10-02 20:04:43 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/vampire_blood_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2025-10-02 19:58:59 +0000"
     },
     "done": true
   },
