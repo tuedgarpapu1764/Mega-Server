@@ -3079,3 +3079,172 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Oct2025 21:05:36.034] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759439136020
 [02Oct2025 21:05:39.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
 [02Oct2025 21:05:50.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nexus2012 has reached the goal [Here They Come]
+[02Oct2025 21:06:11.430] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[02Oct2025 21:06:25.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[02Oct2025 21:06:29.679] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[02Oct2025 21:07:37.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[02Oct2025 21:09:08.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 74.500000, 58.500000, 53.500000]
+[02Oct2025 21:09:18.602] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[02Oct2025 21:09:22.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nexus2012 has made the advancement [How long's this been here?]
+[02Oct2025 21:09:53.353] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[02Oct2025 21:09:53.353] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[02Oct2025 21:09:53.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 21:09:53.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 21:11:06.336] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[02Oct2025 21:11:51.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nexus2012 has made the advancement [Magery]
+[02Oct2025 21:12:15.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nexus2012 walked into a cactus whilst trying to escape Ice Dragon
+[02Oct2025 21:12:15.191] [Server thread/DEBUG] [tombstone/]: A new grave of the player Nexus2012 was created at position [x:1029, y:73, z:-590, dim:minecraft:overworld]
+[02Oct2025 21:12:15.192] [Server thread/INFO] [tombstone/]: The player Nexus2012 has successfully been saved
+[02Oct2025 21:12:16.927] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759439536908
+[02Oct2025 21:14:35.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[02Oct2025 21:14:53.353] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[02Oct2025 21:14:53.354] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[02Oct2025 21:14:53.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 21:14:53.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 21:15:49.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[02Oct2025 21:16:10.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 93.500000, 93.500000, 12.500000]
+[02Oct2025 21:16:12.839] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759439771865
+[02Oct2025 21:16:45.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 898.500000, 94.500000, 401.500000]
+[02Oct2025 21:16:47.405] [Worker-Main-18/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.849s
+[02Oct2025 21:17:26.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [The internet is for...]
+[02Oct2025 21:17:50.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[02Oct2025 21:19:53.352] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[02Oct2025 21:19:53.353] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[02Oct2025 21:19:53.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 21:19:53.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 21:21:22.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> a dormir
+[02Oct2025 21:21:46.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nexus2012> esperaaa
+[02Oct2025 21:22:22.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nexus2012 has made the advancement [Diamonds!]
+[02Oct2025 21:22:31.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nexus2012> dragonnn
+[02Oct2025 21:22:33.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nexus2012> waaaaa
+[02Oct2025 21:22:39.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> donde
+[02Oct2025 21:22:54.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nexus2012> 1005, 74, -682
+[02Oct2025 21:23:07.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> voy
+[02Oct2025 21:23:13.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[02Oct2025 21:24:53.355] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[02Oct2025 21:24:53.355] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[02Oct2025 21:24:53.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 21:24:53.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 21:26:02.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nexus2012> porfin tengo colmillos
+[02Oct2025 21:26:07.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nexus2012> lo q me costo ptme
+[02Oct2025 21:26:14.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Suit Up]
+[02Oct2025 21:26:22.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> esa suerte
+[02Oct2025 21:26:34.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> ahorita destrozo a ese dragon
+[02Oct2025 21:26:39.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[02Oct2025 21:26:46.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nexus2012> va
+[02Oct2025 21:26:56.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[02Oct2025 21:28:16.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 966.500000, 69.500000, 305.500000]
+[02Oct2025 21:28:21.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 962.500000, 69.000000, -275.500000]
+[02Oct2025 21:28:31.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 962.500000, 69.500000, -401.500000]
+[02Oct2025 21:28:36.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 950.500000, 78.500000, -517.500000]
+[02Oct2025 21:28:41.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 972.500000, 95.500000, -559.500000]
+[02Oct2025 21:28:47.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> esun dragon de hielo?
+[02Oct2025 21:29:34.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nexus2012 was slain by Imperial Teri
+[02Oct2025 21:29:34.375] [Server thread/DEBUG] [tombstone/]: A new grave of the player Nexus2012 was created at position [x:604, y:63, z:-222, dim:minecraft:overworld]
+[02Oct2025 21:29:34.386] [Server thread/INFO] [tombstone/]: The player Nexus2012 has successfully been saved
+[02Oct2025 21:29:36.007] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759440576007
+[02Oct2025 21:29:40.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nexus2012> hija de puuta
+[02Oct2025 21:29:53.346] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[02Oct2025 21:29:53.346] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[02Oct2025 21:29:53.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 21:29:53.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 21:29:59.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nexus2012> esa kjuuda me quito el sanguineo del vampiro ptmr
+[02Oct2025 21:30:04.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> xdd
+[02Oct2025 21:30:06.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> aso
+[02Oct2025 21:30:08.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nexus2012> teno q matar a otro ahora csmr
+[02Oct2025 21:30:18.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> no hay ningun dragonaqui o
+[02Oct2025 21:31:23.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 946.500000, 70.000000, 156.500000]
+[02Oct2025 21:31:32.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 951.500000, 86.500000, 198.500000]
+[02Oct2025 21:31:34.179] [Worker-Main-28/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.641s
+[02Oct2025 21:31:45.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nexus2012> nada?
+[02Oct2025 21:31:53.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> no hay nada dondeme dijiste
+[02Oct2025 21:32:02.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 1149.500000, 86.000000, 329.500000]
+[02Oct2025 21:32:03.305] [Worker-Main-28/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1260, y=-29, z=303}
+[02Oct2025 21:32:03.322] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1260, y=-29, z=303}
+[02Oct2025 21:32:03.322] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1247, y=-29, z=275}
+[02Oct2025 21:32:03.411] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1247, y=-29, z=275}
+[02Oct2025 21:32:03.621] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1260, y=-29, z=303}
+[02Oct2025 21:32:03.622] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1278, y=-29, z=291}
+[02Oct2025 21:32:03.636] [Worker-Main-28/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1260, y=-29, z=303}
+[02Oct2025 21:32:03.636] [Worker-Main-28/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1248, y=-29, z=265}
+[02Oct2025 21:32:03.636] [Worker-Main-28/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1253, y=-29, z=266}
+[02Oct2025 21:32:03.643] [Worker-Main-28/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1248, y=-29, z=265}
+[02Oct2025 21:32:03.643] [Worker-Main-28/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1253, y=-29, z=266}
+[02Oct2025 21:32:04.977] [Worker-Main-28/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1265, y=-29, z=290}
+[02Oct2025 21:32:04.981] [Worker-Main-19/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1265, y=-29, z=290}
+[02Oct2025 21:32:04.987] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1278, y=-29, z=291}
+[02Oct2025 21:32:04.987] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1265, y=-29, z=290}
+[02Oct2025 21:32:04.988] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1278, y=-29, z=296}
+[02Oct2025 21:32:05.699] [Worker-Main-28/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1265, y=-29, z=290}
+[02Oct2025 21:32:05.709] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1265, y=-29, z=290}
+[02Oct2025 21:32:05.723] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1265, y=-29, z=290}
+[02Oct2025 21:32:29.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Blood Feeders' Home]
+[02Oct2025 21:32:40.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[02Oct2025 21:33:40.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[02Oct2025 21:34:39.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[02Oct2025 21:34:53.348] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[02Oct2025 21:34:53.348] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[02Oct2025 21:34:53.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 21:34:53.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 21:35:24.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[02Oct2025 21:35:26.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[02Oct2025 21:35:36.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has completed the challenge [Regicide]
+[02Oct2025 21:35:36.782] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 4'/36583, l='ServerLevel[world]', x=1176.52, y=79.00, z=270.48] died: Vampire Baron Level 4 was shot by JJForever1764
+[02Oct2025 21:35:58.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> yara esa cochinada casi me mata
+[02Oct2025 21:36:57.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> por fin un colmillo
+[02Oct2025 21:37:23.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nexus2012> yo ando en busca de unn chupa sangre
+[02Oct2025 21:37:42.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> en este bioma no veo nada xd
+[02Oct2025 21:37:46.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nexus2012 moved too quickly! 4.724074639681021,-1.0752008901189498,-8.975623992540818
+[02Oct2025 21:37:48.100] [Worker-Main-28/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1357, y=9, z=-864}
+[02Oct2025 21:37:48.100] [Worker-Main-28/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1357, y=9, z=-849}
+[02Oct2025 21:37:48.101] [Worker-Main-28/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1358, y=9, z=-861}
+[02Oct2025 21:37:48.101] [Worker-Main-28/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1348, y=9, z=-851}
+[02Oct2025 21:37:48.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 1257.500000, 71.500000, 298.500000]
+[02Oct2025 21:37:52.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 1310.500000, 74.500000, 258.500000]
+[02Oct2025 21:37:54.621] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[02Oct2025 21:37:55.655] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[02Oct2025 21:37:55.655] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[02Oct2025 21:38:00.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nexus2012 was slain by Ice Dragon
+[02Oct2025 21:38:00.077] [Server thread/DEBUG] [tombstone/]: A new grave of the player Nexus2012 was created at position [x:1147, y:63, z:-639, dim:minecraft:overworld]
+[02Oct2025 21:38:00.092] [Server thread/INFO] [tombstone/]: The player Nexus2012 has successfully been saved
+[02Oct2025 21:38:02.303] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759441082303
+[02Oct2025 21:38:05.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nexus2012> oe csmr
+[02Oct2025 21:38:39.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 1317.500000, 90.500000, 236.500000]
+[02Oct2025 21:39:03.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 1348.500000, 79.500000, 167.500000]
+[02Oct2025 21:39:06.647] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1575, y=88, z=283}
+[02Oct2025 21:39:06.651] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1552, y=81, z=300}
+[02Oct2025 21:39:06.725] [Worker-Main-19/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1575, y=88, z=283}
+[02Oct2025 21:39:07.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[02Oct2025 21:39:09.893] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1552, y=100, z=320}
+[02Oct2025 21:39:09.899] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1555, y=95, z=288}
+[02Oct2025 21:39:09.899] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1575, y=88, z=283}
+[02Oct2025 21:39:09.902] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1566, y=81, z=300}
+[02Oct2025 21:39:09.902] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1553, y=81, z=306}
+[02Oct2025 21:39:09.903] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1552, y=81, z=300}
+[02Oct2025 21:39:09.903] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1553, y=81, z=293}
+[02Oct2025 21:39:09.908] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1552, y=100, z=320}
+[02Oct2025 21:39:09.910] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1575, y=88, z=283}
+[02Oct2025 21:39:36.754] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1552, y=100, z=320}
+[02Oct2025 21:39:36.756] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1575, y=88, z=283}
+[02Oct2025 21:39:36.764] [Worker-Main-19/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1552, y=100, z=320}
+[02Oct2025 21:39:36.769] [Worker-Main-19/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1575, y=88, z=283}
+[02Oct2025 21:39:53.387] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[02Oct2025 21:39:53.387] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[02Oct2025 21:39:53.387] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 21:39:53.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 21:40:33.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[02Oct2025 21:40:49.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[02Oct2025 21:42:12.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Ambush]
+[02Oct2025 21:42:36.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Diamonds!]
+[02Oct2025 21:43:45.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJForever1764 moved wrongly!
+[02Oct2025 21:44:28.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> oe si sabes q hay armas no?
+[02Oct2025 21:44:35.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nexus2012> si
+[02Oct2025 21:44:44.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> aya te digo por q estan muy rotas
+[02Oct2025 21:44:53.353] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[02Oct2025 21:44:53.353] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[02Oct2025 21:44:53.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 21:44:53.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 21:45:04.030] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[02Oct2025 21:45:44.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nexus2012> mano, mandame hilo ps
+[02Oct2025 21:45:56.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> sigues entu misma casa no?
+[02Oct2025 21:46:09.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nexus2012> sii
