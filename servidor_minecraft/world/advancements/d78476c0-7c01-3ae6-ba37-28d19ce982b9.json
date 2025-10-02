@@ -1721,18 +1721,6 @@
     },
     "done": true
   },
-  "vampirism:hunter/betrayal": {
-    "criteria": {
-      "kill": "2025-10-02 19:19:33 +0000"
-    },
-    "done": false
-  },
-  "vampirism:hunter/technology": {
-    "criteria": {
-      "advanced": "2025-10-02 19:19:40 +0000"
-    },
-    "done": false
-  },
   "vampirism:recipes/combat/vampire/vampire_clothing_hat": {
     "criteria": {
       "has_heart": "2025-10-02 19:20:09 +0000"
@@ -1818,11 +1806,23 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-10-02 21:57:41 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/fog_diffuser": {
     "criteria": {
       "has_diamond": "2025-10-02 21:42:36 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/blood_cult": {
+    "criteria": {
+      "main": "2025-10-02 21:58:45 +0000"
+    },
+    "done": false
   },
   "minecraft:story/obtain_armor": {
     "criteria": {
@@ -1835,6 +1835,12 @@
       "has_diamond": "2025-10-02 21:42:36 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/freeze_kill": {
+    "criteria": {
+      "main": "2025-10-02 21:58:45 +0000"
+    },
+    "done": false
   },
   "iceandfire:recipes/combat/armor_white_leggings": {
     "criteria": {
@@ -1866,6 +1872,12 @@
     },
     "done": true
   },
+  "webdisplays:link_peripheral": {
+    "criteria": {
+      "link_peripheral": "2025-10-02 22:04:47 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_key": {
     "criteria": {
       "has_ingredient": "2025-10-02 21:04:25 +0000"
@@ -1877,6 +1889,30 @@
       "has_diamond": "2025-10-02 21:42:36 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-10-02 21:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-10-02 21:57:41 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/first_blood": {
+    "criteria": {
+      "main": "2025-10-02 21:58:45 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/extra_storage": {
+    "criteria": {
+      "main": "2025-10-02 21:58:45 +0000"
+    },
+    "done": false
   },
   "iceandfire:recipes/combat/armor_white_boots": {
     "criteria": {
@@ -1893,6 +1929,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-10-02 21:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-10-02 21:57:41 +0000"
     },
     "done": true
   },
@@ -1914,15 +1956,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-10-02 21:57:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_helmet": {
     "criteria": {
       "has_item": "2025-10-02 21:40:59 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-10-02 21:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-10-02 21:57:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-10-02 21:05:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-10-02 21:57:41 +0000"
     },
     "done": true
   },
@@ -1956,6 +2022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-10-02 21:57:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-10-02 21:42:36 +0000"
@@ -1965,6 +2037,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-10-02 21:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-10-02 21:57:41 +0000"
     },
     "done": true
   },
@@ -1980,6 +2058,18 @@
     },
     "done": true
   },
+  "vampirism:vampire/yuck": {
+    "criteria": {
+      "main": "2025-10-02 21:58:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-10-02 21:57:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
       "has_silver_nugget": "2025-10-02 21:40:40 +0000"
@@ -1991,6 +2081,12 @@
       "has_pure_blood": "2025-10-02 21:35:48 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/sniped": {
+    "criteria": {
+      "main": "2025-10-02 21:58:45 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
@@ -2028,6 +2124,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-10-02 21:57:41 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-10-02 21:04:23 +0000"
@@ -2040,9 +2142,27 @@
     },
     "done": true
   },
+  "vampirism:vampire/kill_mother": {
+    "criteria": {
+      "main": "2025-10-02 21:58:45 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-10-02 21:42:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2025-10-02 21:58:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-10-02 21:57:41 +0000"
     },
     "done": true
   },
@@ -2100,6 +2220,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/resurrect": {
+    "criteria": {
+      "main": "2025-10-02 21:58:45 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-10-02 21:46:22 +0000"
@@ -2111,6 +2237,12 @@
       "coded_trigger": "2025-10-02 21:04:23 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/bat": {
+    "criteria": {
+      "main": "2025-10-02 21:58:45 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
@@ -2163,6 +2295,12 @@
   "vampirism:recipes/combat/vampire/vampire_cloak_red_black": {
     "criteria": {
       "has_pure_blood": "2025-10-02 21:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-10-02 21:57:41 +0000"
     },
     "done": true
   },
