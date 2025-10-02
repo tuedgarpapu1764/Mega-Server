@@ -3294,3 +3294,40 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Oct2025 22:05:33.428] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/46087, l='ServerLevel[world]', x=904.64, y=86.90, z=387.39] died, message: 'Librarian was slain by Zombie'
 [02Oct2025 22:05:50.835] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Nexus2012 has new faction level vampirism:vampire 1
 [02Oct2025 22:05:57.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [More than a screen]
+[02Oct2025 22:07:37.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nexus2012> ya
+[02Oct2025 22:07:49.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nexus2012> como mrd soy murcielago
+[02Oct2025 22:08:37.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> tienes q subir de nivel
+[02Oct2025 22:08:55.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> juntar sangre en un balde
+[02Oct2025 22:09:08.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> busca en yt por q ya no me acuerdo cmo era eso
+[02Oct2025 22:09:12.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[02Oct2025 22:09:53.351] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[02Oct2025 22:09:53.351] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[02Oct2025 22:09:53.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 22:09:53.360] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 22:11:09.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nexus2012> oeee
+[02Oct2025 22:11:20.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nexus2012> no tengo sangre me sale
+[02Oct2025 22:11:43.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> vrd ahora ya no comes comida
+[02Oct2025 22:11:46.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> chupa sangre lit
+[02Oct2025 22:11:51.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> apunta a un animal
+[02Oct2025 22:11:57.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> y drenalo
+[02Oct2025 22:12:05.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nexus2012> coomo hago eso
+[02Oct2025 22:12:29.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> asigna una tecla para hacer eso
+[02Oct2025 22:12:33.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> en tu configuracion
+[02Oct2025 22:12:42.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> ahi sale algode chupar sangre
+[02Oct2025 22:13:19.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nexus2012 has made the advancement [Bloody Stream]
+[02Oct2025 22:14:18.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[02Oct2025 22:14:23.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[02Oct2025 22:14:49.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> haz tu ataud
+[02Oct2025 22:14:53.358] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[02Oct2025 22:14:53.359] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[02Oct2025 22:14:53.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 22:14:53.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 22:14:56.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> para dormir
+[02Oct2025 22:15:01.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> en el dia ya no podemos salir
+[02Oct2025 22:15:18.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nexus2012> el sol no me quema xd
+[02Oct2025 22:15:25.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[02Oct2025 22:15:52.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> a mi tampoco pero dentro de poco te quita hambre creo
+[02Oct2025 22:16:02.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[02Oct2025 22:16:11.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nexus2012> mandame unna de lana
+[02Oct2025 22:16:14.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nexus2012> blanca
+[02Oct2025 22:16:17.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Bloody Stream]

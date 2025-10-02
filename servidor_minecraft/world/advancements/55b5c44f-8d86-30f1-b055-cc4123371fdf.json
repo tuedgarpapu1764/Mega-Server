@@ -1685,7 +1685,7 @@
   },
   "vampirism:hunter/betrayal": {
     "criteria": {
-      "kill": "2025-10-02 20:53:21 +0000"
+      "kill": "2025-10-02 22:09:05 +0000"
     },
     "done": false
   },
@@ -1713,11 +1713,23 @@
     },
     "done": true
   },
+  "vampirism:vampire/blood_cult": {
+    "criteria": {
+      "main": "2025-10-02 22:05:50 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-10-02 21:22:22 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/freeze_kill": {
+    "criteria": {
+      "main": "2025-10-02 22:05:50 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
@@ -1767,11 +1779,30 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_clothing_crown": {
+    "criteria": {
+      "has_heart": "2025-10-02 22:14:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2025-10-02 21:33:19 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/first_blood": {
+    "criteria": {
+      "main": "2025-10-02 22:05:50 +0000",
+      "flower": "2025-10-02 22:13:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/extra_storage": {
+    "criteria": {
+      "main": "2025-10-02 22:05:50 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/mud_brick_wall": {
     "criteria": {
@@ -1821,6 +1852,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_clothing_hat": {
+    "criteria": {
+      "has_heart": "2025-10-02 22:14:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_glazed_terracotta": {
     "criteria": {
       "has_blue_terracotta": "2025-10-02 21:33:18 +0000"
@@ -1839,6 +1876,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/yuck": {
+    "criteria": {
+      "main": "2025-10-02 22:05:50 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/mud_brick_slab": {
     "criteria": {
       "has_mud_bricks": "2025-10-02 21:33:44 +0000"
@@ -1850,6 +1893,12 @@
       "has_silver_nugget": "2025-10-02 21:22:19 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/sniped": {
+    "criteria": {
+      "main": "2025-10-02 22:05:50 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
@@ -1869,15 +1918,33 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_clothing_boots": {
+    "criteria": {
+      "has_heart": "2025-10-02 22:14:23 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-10-02 21:05:34 +0000"
     },
     "done": true
   },
+  "vampirism:vampire/kill_mother": {
+    "criteria": {
+      "main": "2025-10-02 22:05:50 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-10-02 21:22:22 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2025-10-02 22:05:50 +0000"
     },
     "done": true
   },
@@ -1917,11 +1984,23 @@
     },
     "done": true
   },
+  "vampirism:vampire/resurrect": {
+    "criteria": {
+      "main": "2025-10-02 22:05:50 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-10-02 21:05:34 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/bat": {
+    "criteria": {
+      "main": "2025-10-02 22:05:50 +0000"
+    },
+    "done": false
   },
   "minecraft:story/mine_diamond": {
     "criteria": {

@@ -2208,6 +2208,12 @@
     },
     "done": true
   },
+  "webdisplays:upgrade": {
+    "criteria": {
+      "upgrade_screen": "2025-10-02 22:05:57 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/easy_opening": {
     "criteria": {
       "coded_trigger": "2025-10-02 21:04:57 +0000"
