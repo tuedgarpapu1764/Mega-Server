@@ -1059,6 +1059,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-10-02 20:04:47 +0000",
+      "minecraft:spider": "2025-10-02 21:45:10 +0000",
       "minecraft:zombie": "2025-10-02 18:22:59 +0000",
       "minecraft:zombie_villager": "2025-10-02 20:58:36 +0000"
     },
@@ -1880,6 +1881,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-10-02 21:50:43 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
       "requirement": "2025-10-02 21:11:51 +0000"
@@ -1925,6 +1932,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-10-02 21:22:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-10-02 21:50:43 +0000"
     },
     "done": true
   },

@@ -25,6 +25,7 @@
       "minecraft:birch_forest": "2025-10-02 21:41:47 +0000",
       "minecraft:beach": "2025-10-02 17:13:53 +0000",
       "minecraft:river": "2025-10-02 17:53:17 +0000",
+      "minecraft:dripstone_caves": "2025-10-02 21:53:11 +0000",
       "minecraft:cold_ocean": "2025-10-02 17:14:08 +0000",
       "minecraft:forest": "2025-10-02 17:16:48 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-10-02 21:28:31 +0000",
@@ -1889,6 +1890,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-10-02 21:46:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-10-02 21:42:36 +0000"
@@ -1943,9 +1950,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-10-02 21:46:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-10-02 21:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-10-02 21:46:22 +0000"
     },
     "done": true
   },
@@ -2015,9 +2034,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-10-02 21:46:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-10-02 21:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-10-02 21:46:22 +0000"
     },
     "done": true
   },
@@ -2066,6 +2097,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-10-02 21:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-10-02 21:46:22 +0000"
     },
     "done": true
   },
