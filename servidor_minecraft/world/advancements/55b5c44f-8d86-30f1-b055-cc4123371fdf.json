@@ -1938,9 +1938,10 @@
   },
   "vampirism:vampire/blood_cult": {
     "criteria": {
-      "main": "2025-10-02 22:05:50 +0000"
+      "main": "2025-10-02 22:05:50 +0000",
+      "flower": "2025-10-02 23:12:11 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/freeze_kill": {
     "criteria": {
@@ -2289,6 +2290,12 @@
   "vampirism:recipes/combat/weapontable/crucifix_ultimate": {
     "criteria": {
       "gold": "2025-10-02 22:52:45 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2025-10-02 23:11:18 +0000"
     },
     "done": true
   },
