@@ -1995,9 +1995,10 @@
   },
   "vampirism:vampire/bat": {
     "criteria": {
+      "action": "2025-10-02 23:48:45 +0000",
       "main": "2025-10-02 22:05:50 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:hunter/betrayal": {
     "criteria": {
@@ -2296,6 +2297,60 @@
   "vampirism:main/ancient_knowledge": {
     "criteria": {
       "blood_container": "2025-10-02 23:11:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-10-02 23:18:02 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/max_level": {
+    "criteria": {
+      "level": "2025-10-02 23:21:48 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_blasting": {
+    "criteria": {
+      "has_amulet": "2025-10-02 23:26:22 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_smelting": {
+    "criteria": {
+      "has_amulet": "2025-10-02 23:26:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-10-02 23:55:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-10-02 23:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2025-10-02 23:59:32 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/tools/silver_shovel": {
+    "criteria": {
+      "has_the_recipe": "2025-10-03 00:00:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_pickaxe": {
+    "criteria": {
+      "has_the_recipe": "2025-10-03 00:21:10 +0000"
     },
     "done": true
   },
