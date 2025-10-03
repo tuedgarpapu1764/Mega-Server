@@ -115,3 +115,8 @@
 [03Oct2025 00:39:40.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 917.500000, 77.500000, -81.500000]
 [03Oct2025 00:39:43.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 911.500000, 102.500000, -161.500000]
 [03Oct2025 00:39:54.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nexus2012 moved too quickly! -3.115627611049149,0.0,9.504157991820335
+[03Oct2025 00:43:45.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JJForever1764> zafaris
+[03Oct2025 00:43:48.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJForever1764 lost connection: Disconnected
+[03Oct2025 00:43:48.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 left the game
+[03Oct2025 00:45:03.195] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nexus2012 lost connection: Disconnected
+[03Oct2025 00:45:03.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nexus2012 left the game

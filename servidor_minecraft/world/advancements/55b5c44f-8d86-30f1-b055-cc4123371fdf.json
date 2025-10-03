@@ -2354,5 +2354,17 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-10-03 00:43:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-10-03 00:43:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
