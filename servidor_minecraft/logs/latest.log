@@ -99,3 +99,26 @@
 [04Oct2025 15:41:12.702] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/870, l='ServerLevel[world]', x=901.30, y=97.00, z=409.70] died, message: 'Toolsmith was slain by Zombie'
 [04Oct2025 15:41:19.952] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/871, l='ServerLevel[world]', x=901.70, y=97.00, z=409.70] died, message: 'Toolsmith was slain by Zombie'
 [04Oct2025 15:41:27.102] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/872, l='ServerLevel[world]', x=901.70, y=97.00, z=407.33] died, message: 'Mason was slain by Zombie'
+[04Oct2025 15:46:22.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[04Oct2025 15:46:27.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[04Oct2025 15:51:40.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nexus2012[/127.206.25.203:46639] logged in with entity id 2876 at (906.5, 88.0, -186.5)
+[04Oct2025 15:51:40.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nexus2012 joined the game
+[04Oct2025 15:52:00.861] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 4'/3175, l='ServerLevel[world]', x=911.50, y=72.00, z=425.50] died: Vampire Baron Level 4 was shot by JJForever1764
+[04Oct2025 15:52:29.612] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 2'/3231, l='ServerLevel[world]', x=914.62, y=72.00, z=431.69] died: Vampire Baron Level 2 was shot by JJForever1764
+[04Oct2025 15:52:45.660] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[04Oct2025 15:52:45.660] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[04Oct2025 15:52:45.662] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[04Oct2025 15:52:48.317] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/3474, l='ServerLevel[world]', x=914.70, y=72.00, z=431.70] died: Vampire Baron Level 1 was shot by JJForever1764
+[04Oct2025 15:53:06.714] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 5'/3705, l='ServerLevel[world]', x=914.70, y=72.00, z=427.18] died: Vampire Baron Level 5 was shot by JJForever1764
+[04Oct2025 15:53:18.210] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 5'/3898, l='ServerLevel[world]', x=913.50, y=72.00, z=430.50] died: Vampire Baron Level 5 was shot by JJForever1764
+[04Oct2025 15:53:33.612] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 5'/3994, l='ServerLevel[world]', x=914.70, y=72.00, z=431.70] died: Vampire Baron Level 5 was shot by JJForever1764
+[04Oct2025 15:53:43.958] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 5'/4225, l='ServerLevel[world]', x=912.50, y=72.00, z=427.50] died: Vampire Baron Level 5 was shot by JJForever1764
+[04Oct2025 15:53:51.359] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 4'/4308, l='ServerLevel[world]', x=914.50, y=72.00, z=422.50] died: Vampire Baron Level 4 was shot by JJForever1764
+[04Oct2025 15:54:00.950] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/877, l='ServerLevel[world]', x=904.64, y=86.90, z=387.39] died, message: 'Farmer was slain by Zombie'
+[04Oct2025 15:55:06.217] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/4388, l='ServerLevel[world]', x=914.65, y=72.00, z=419.35] died: Vampire Baron Level 1 was shot by JJForever1764
+[04Oct2025 15:57:54.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 1395.500000, 121.500000, 569.500000]
+[04Oct2025 15:57:57.836] [Worker-Main-12/INFO] [citadel/]: merged 6 surface rules with vanilla rule SequenceRuleSource
+[04Oct2025 16:01:16.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nexus2012> duuerme
+[04Oct2025 16:03:45.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has completed the challenge [Premium!]
+[04Oct2025 16:04:19.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 1397.500000, 101.000000, 541.500000]
+[04Oct2025 16:04:36.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to 1382.500000, 79.500000, 134.500000]
